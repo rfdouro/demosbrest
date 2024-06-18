@@ -1,0 +1,14 @@
+{
+ "configurations": [
+  {
+   "type": "java",
+   "name": "Spring Boot-DemorestApplication<demorest>",
+   "request": "launch",
+   "cwd": "${workspaceFolder}",
+   "mainClass": "br.org.rfdouro.demorest.DemorestApplication",
+   "projectName": "demorest",
+   "args": "",
+   "envFile": "${workspaceFolder}/.env"
+  }
+ ]
+}
